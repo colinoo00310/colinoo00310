@@ -33,16 +33,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=colinoo00310&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=colinoo00310&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=buefy&rank_icon=github">
-  <img height="170" alt="ZhongLi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colinoo00310&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=colinoo00310&layout=compact&hide_border=true&theme=radical&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=colinoo00310&layout=compact&hide_border=true&theme=buefy&langs_count=8">
-  <img height="170" alt="ZhongLi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinoo00310&layout=compact&hide_border=true&theme=radical&langs_count=8">
-</picture>
+<img height="170" alt="ZhongLi's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=colinoo00310&theme=radical">
+<img height="170" alt="ZhongLi's most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=colinoo00310&theme=radical">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=colinoo00310&bg_color=00000000&color=8B5CF6&line=22D3EE&point=F472B6&area=true&hide_border=true)
 
