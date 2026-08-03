@@ -1,6 +1,6 @@
 # Hi, I'm ZhongLi 👋
 
-> Building practical tools for asset management, data analytics, and intelligent decision-making.
+> Master's in Electronic Information Engineering | IT infrastructure & research institute background | Research interests: Computer Vision, Mobile Robot Path Planning, Vibe Coding. Glad to connect!
 
 ## Languages
 
@@ -21,16 +21,13 @@
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
-## Asset & Decision Projects
-
-[![资析智策](https://img.shields.io/badge/📊_资析智策-资产经营与风险决策-8B5CF6?style=flat)](https://github.com/colinoo00310/Asset-Intelligence-and-Decision-Analytics-System)
-[![Asset System Web](https://img.shields.io/badge/🏢_Asset_System_Web-Flask_×_Vue-10B981?style=flat)](https://github.com/colinoo00310/Asset_System_PythonWeb)
-[![Asset System](https://img.shields.io/badge/📦_Asset_System-Python-3776AB?style=flat)](https://github.com/colinoo00310/Asset_System)
-
-## Web & Personal Projects
+## Personal Projects
 
 [![Personal Website](https://img.shields.io/badge/🚀_Personal_Website-GitHub_Pages-0EA5E9?style=flat)](https://colinoo00310.github.io/)
 [![Website Repository](https://img.shields.io/badge/💻_Website_Source-View_Repository-181717?style=flat&logo=github)](https://github.com/colinoo00310/colinoo00310.github.io)
+
+
+
 
 ## GitHub Stats
 
