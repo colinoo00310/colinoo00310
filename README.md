@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm ZhongLi 👋
 
-<!--
-**colinoo00310/colinoo00310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building practical tools for asset management, data analytics, and intelligent decision-making.
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+## Technologies
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+
+## Asset & Decision Projects
+
+[![资析智策](https://img.shields.io/badge/📊_资析智策-资产经营与风险决策-8B5CF6?style=flat)](https://github.com/colinoo00310/Asset-Intelligence-and-Decision-Analytics-System)
+[![Asset System Web](https://img.shields.io/badge/🏢_Asset_System_Web-Flask_×_Vue-10B981?style=flat)](https://github.com/colinoo00310/Asset_System_PythonWeb)
+[![Asset System](https://img.shields.io/badge/📦_Asset_System-Python-3776AB?style=flat)](https://github.com/colinoo00310/Asset_System)
+
+## Web & Personal Projects
+
+[![Personal Website](https://img.shields.io/badge/🚀_Personal_Website-GitHub_Pages-0EA5E9?style=flat)](https://colinoo00310.github.io/)
+[![Website Repository](https://img.shields.io/badge/💻_Website_Source-View_Repository-181717?style=flat&logo=github)](https://github.com/colinoo00310/colinoo00310.github.io)
+
+## GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=colinoo00310&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=colinoo00310&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=buefy&rank_icon=github">
+  <img height="170" alt="ZhongLi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colinoo00310&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=colinoo00310&layout=compact&hide_border=true&theme=radical&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=colinoo00310&layout=compact&hide_border=true&theme=buefy&langs_count=8">
+  <img height="170" alt="ZhongLi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinoo00310&layout=compact&hide_border=true&theme=radical&langs_count=8">
+</picture>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=colinoo00310&bg_color=00000000&color=8B5CF6&line=22D3EE&point=F472B6&area=true&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=colinoo00310&style=flat&color=8B5CF6&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/colinoo00310?style=flat&logo=github&label=Followers&color=10B981)
+![Stars](https://img.shields.io/github/stars/colinoo00310?affiliations=OWNER&style=flat&logo=github&label=Total+Stars&color=F59E0B)
+
+</div>
