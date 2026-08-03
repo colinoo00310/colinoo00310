@@ -33,8 +33,8 @@
 
 <div align="center">
 
-<img height="170" alt="ZhongLi's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=colinoo00310&theme=radical">
-<img height="170" alt="ZhongLi's most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=colinoo00310&theme=radical">
+<img height="180" alt="ZhongLi's GitHub overview" src="./assets/github-stats.svg">
+<img height="180" alt="ZhongLi's core technology stack" src="./assets/language-overview.svg">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=colinoo00310&bg_color=00000000&color=8B5CF6&line=22D3EE&point=F472B6&area=true&hide_border=true)
 

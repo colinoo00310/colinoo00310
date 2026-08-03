@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="180" viewBox="0 0 440 180" role="img" aria-labelledby="title desc">
+  <title id="title">ZhongLi's core technology stack</title>
+  <desc id="desc">Python, Vue, JavaScript, HTML CSS, and SQL</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b163f"/>
+      <stop offset="0.52" stop-color="#18213e"/>
+      <stop offset="1" stop-color="#102c39"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3776ab"/>
+      <stop offset=".43" stop-color="#3776ab"/>
+      <stop offset=".43" stop-color="#42b883"/>
+      <stop offset=".76" stop-color="#42b883"/>
+      <stop offset=".76" stop-color="#f7df1e"/>
+      <stop offset=".9" stop-color="#f7df1e"/>
+      <stop offset=".9" stop-color="#e34f26"/>
+      <stop offset="1" stop-color="#1572b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="180" rx="12" fill="url(#bg2)"/>
+  <rect x="1" y="1" width="438" height="178" rx="11" fill="none" stroke="#22d3ee" stroke-opacity=".36"/>
+  <text x="24" y="40" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">Core Stack</text>
+  <text x="24" y="65" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="12">LANGUAGES USED ACROSS FEATURED PROJECTS</text>
+  <rect x="24" y="82" width="392" height="10" rx="5" fill="url(#bar)"/>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="12">
+    <circle cx="29" cy="119" r="5" fill="#3776ab"/><text x="41" y="123" fill="#e2e8f0">Python</text>
+    <circle cx="128" cy="119" r="5" fill="#42b883"/><text x="140" y="123" fill="#e2e8f0">Vue</text>
+    <circle cx="215" cy="119" r="5" fill="#f7df1e"/><text x="227" y="123" fill="#e2e8f0">JavaScript</text>
+    <circle cx="335" cy="119" r="5" fill="#e34f26"/><text x="347" y="123" fill="#e2e8f0">HTML/CSS</text>
+    <circle cx="29" cy="150" r="5" fill="#0ea5e9"/><text x="41" y="154" fill="#e2e8f0">SQL / SQLite</text>
+    <circle cx="155" cy="150" r="5" fill="#a78bfa"/><text x="167" y="154" fill="#e2e8f0">Flask</text>
+    <circle cx="242" cy="150" r="5" fill="#22d3ee"/><text x="254" y="154" fill="#e2e8f0">Data Visualization</text>
+  </g>
+</svg>
